@@ -1,0 +1,13 @@
+{
+	"icons":
+	[
+		[" heart", "<i class='fa-heart'></i> "],
+		[" star", "<i class='fa-star'></i> "],
+		[" star-o", "<i class='fa-star-o'></i> "],
+		[" user", "<i class='fa-user'></i> "],
+		[" film", "<i class='fa-film'></i> "],
+	]
+	
+	
+}
+
